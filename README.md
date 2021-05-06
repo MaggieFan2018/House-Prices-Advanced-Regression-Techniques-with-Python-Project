@@ -5,6 +5,7 @@ In this data science project, the house prices on Kaggle competition is selected
 <p align="center">
 <img src="Images/Flowchart.png">
 </p>  
+
 ## Table of Contents
 - Executive Summary
 - Data Description and Initial Processing
